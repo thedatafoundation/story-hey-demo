@@ -27,7 +27,7 @@
     "@hey/lib": "workspace:*",
     "@irys/sdk": "^0.1.4",
     "@prisma/client": "^5.8.1",
-    "axios": "1.12.0",
+    "axios": "1.13.5",
     "cors": "^2.8.5",
     "country-code-lookup": "^0.1.1",
     "dotenv": "^16.0.0",
