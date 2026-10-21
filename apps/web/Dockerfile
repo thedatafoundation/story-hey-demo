@@ -1,4 +1,4 @@
-FROM node:18-alpine AS base
+FROM node:24-alpine AS base
 RUN apk add --no-cache libc6-compat
 
 ENV NEXT_PUBLIC_OG_URL="https://og.hey.xyz"
